@@ -1,10 +1,9 @@
+import asyncio
 import json
+import random
 
 import discord
 from discord.ext import commands
-import random
-import math
-import asyncio
 
 with open('config.json') as config:
     config = json.loads(config.read())

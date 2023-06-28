@@ -1,13 +1,8 @@
 import json
 import math
-import random
 
-from discord.ext import commands
-import asyncio
 import discord
-import youtube_dl
-
-
+from discord.ext import commands
 
 with open('credentials.json') as credentials:
     credentials = json.loads(credentials.read())
