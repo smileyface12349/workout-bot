@@ -1,8 +1,11 @@
 # Using the bot
 
 `!ping` Check the bot's response time
+
 `!start` Start the workout messages in your current channel
+
 `!stop` Stop playing workout messages
+
 
 # Installation Instructions
 
