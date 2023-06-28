@@ -1,0 +1,5 @@
+{
+    "audio_file": "workout.mp3",
+    "delay_in_minutes": 0.3,
+    "ffmpeg_path": "ffmpeg/bin/ffmpeg.exe"
+}
